@@ -1,0 +1,20 @@
+main {
+    display: block;
+    text-align: center;
+    align-items: center;
+}
+
+main select {
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+main div {
+    width: 900px;
+    height: 300px;
+    margin: auto;
+}
+
+ main span {
+    width: 200px;
+ }

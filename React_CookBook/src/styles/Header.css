@@ -1,0 +1,17 @@
+header {
+    color: white;
+    font-weight: bold;
+    background: black;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-link:visited {
+    color: white;
+}
+
+.header-link:hover {
+    color: #33ff55;
+}
